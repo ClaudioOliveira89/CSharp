@@ -1,0 +1,15 @@
+D:\Linguagens\C#\Exemplio 7\obj\Debug\net7.0\Exemplio 7.csproj.AssemblyReference.cache
+D:\Linguagens\C#\Exemplio 7\obj\Debug\net7.0\Exemplio 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagens\C#\Exemplio 7\obj\Debug\net7.0\Exemplio 7.AssemblyInfoInputs.cache
+D:\Linguagens\C#\Exemplio 7\obj\Debug\net7.0\Exemplio 7.AssemblyInfo.cs
+D:\Linguagens\C#\Exemplio 7\obj\Debug\net7.0\Exemplio 7.csproj.CoreCompileInputs.cache
+D:\Linguagens\C#\Exemplio 7\bin\Debug\net7.0\Exemplio 7.exe
+D:\Linguagens\C#\Exemplio 7\bin\Debug\net7.0\Exemplio 7.deps.json
+D:\Linguagens\C#\Exemplio 7\bin\Debug\net7.0\Exemplio 7.runtimeconfig.json
+D:\Linguagens\C#\Exemplio 7\bin\Debug\net7.0\Exemplio 7.dll
+D:\Linguagens\C#\Exemplio 7\bin\Debug\net7.0\Exemplio 7.pdb
+D:\Linguagens\C#\Exemplio 7\obj\Debug\net7.0\Exemplio 7.dll
+D:\Linguagens\C#\Exemplio 7\obj\Debug\net7.0\refint\Exemplio 7.dll
+D:\Linguagens\C#\Exemplio 7\obj\Debug\net7.0\Exemplio 7.pdb
+D:\Linguagens\C#\Exemplio 7\obj\Debug\net7.0\Exemplio 7.genruntimeconfig.cache
+D:\Linguagens\C#\Exemplio 7\obj\Debug\net7.0\ref\Exemplio 7.dll

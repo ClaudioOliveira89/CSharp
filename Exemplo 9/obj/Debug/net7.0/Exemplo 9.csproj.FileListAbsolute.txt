@@ -1,0 +1,15 @@
+D:\Linguagens\C#\Exemplo 9\obj\Debug\net7.0\Exemplo 9.csproj.AssemblyReference.cache
+D:\Linguagens\C#\Exemplo 9\obj\Debug\net7.0\Exemplo 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagens\C#\Exemplo 9\obj\Debug\net7.0\Exemplo 9.AssemblyInfoInputs.cache
+D:\Linguagens\C#\Exemplo 9\obj\Debug\net7.0\Exemplo 9.AssemblyInfo.cs
+D:\Linguagens\C#\Exemplo 9\obj\Debug\net7.0\Exemplo 9.csproj.CoreCompileInputs.cache
+D:\Linguagens\C#\Exemplo 9\bin\Debug\net7.0\Exemplo 9.exe
+D:\Linguagens\C#\Exemplo 9\bin\Debug\net7.0\Exemplo 9.deps.json
+D:\Linguagens\C#\Exemplo 9\bin\Debug\net7.0\Exemplo 9.runtimeconfig.json
+D:\Linguagens\C#\Exemplo 9\bin\Debug\net7.0\Exemplo 9.dll
+D:\Linguagens\C#\Exemplo 9\bin\Debug\net7.0\Exemplo 9.pdb
+D:\Linguagens\C#\Exemplo 9\obj\Debug\net7.0\Exemplo 9.dll
+D:\Linguagens\C#\Exemplo 9\obj\Debug\net7.0\refint\Exemplo 9.dll
+D:\Linguagens\C#\Exemplo 9\obj\Debug\net7.0\Exemplo 9.pdb
+D:\Linguagens\C#\Exemplo 9\obj\Debug\net7.0\Exemplo 9.genruntimeconfig.cache
+D:\Linguagens\C#\Exemplo 9\obj\Debug\net7.0\ref\Exemplo 9.dll

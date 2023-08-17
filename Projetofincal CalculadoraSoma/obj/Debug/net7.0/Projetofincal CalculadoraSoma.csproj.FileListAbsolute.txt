@@ -1,0 +1,15 @@
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\obj\Debug\net7.0\Projetofincal CalculadoraSoma.csproj.AssemblyReference.cache
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\obj\Debug\net7.0\Projetofincal CalculadoraSoma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\obj\Debug\net7.0\Projetofincal CalculadoraSoma.AssemblyInfoInputs.cache
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\obj\Debug\net7.0\Projetofincal CalculadoraSoma.AssemblyInfo.cs
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\obj\Debug\net7.0\Projetofincal CalculadoraSoma.csproj.CoreCompileInputs.cache
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\bin\Debug\net7.0\Projetofincal CalculadoraSoma.exe
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\bin\Debug\net7.0\Projetofincal CalculadoraSoma.deps.json
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\bin\Debug\net7.0\Projetofincal CalculadoraSoma.runtimeconfig.json
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\bin\Debug\net7.0\Projetofincal CalculadoraSoma.dll
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\bin\Debug\net7.0\Projetofincal CalculadoraSoma.pdb
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\obj\Debug\net7.0\Projetofincal CalculadoraSoma.dll
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\obj\Debug\net7.0\refint\Projetofincal CalculadoraSoma.dll
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\obj\Debug\net7.0\Projetofincal CalculadoraSoma.pdb
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\obj\Debug\net7.0\Projetofincal CalculadoraSoma.genruntimeconfig.cache
+D:\Linguagens\C#\Projetofincal CalculadoraSoma\obj\Debug\net7.0\ref\Projetofincal CalculadoraSoma.dll

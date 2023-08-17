@@ -1,0 +1,15 @@
+D:\Linguagens\C#\Exemplo10\obj\Debug\net7.0\Exemplo10.csproj.AssemblyReference.cache
+D:\Linguagens\C#\Exemplo10\obj\Debug\net7.0\Exemplo10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagens\C#\Exemplo10\obj\Debug\net7.0\Exemplo10.AssemblyInfoInputs.cache
+D:\Linguagens\C#\Exemplo10\obj\Debug\net7.0\Exemplo10.AssemblyInfo.cs
+D:\Linguagens\C#\Exemplo10\obj\Debug\net7.0\Exemplo10.csproj.CoreCompileInputs.cache
+D:\Linguagens\C#\Exemplo10\bin\Debug\net7.0\Exemplo10.exe
+D:\Linguagens\C#\Exemplo10\bin\Debug\net7.0\Exemplo10.deps.json
+D:\Linguagens\C#\Exemplo10\bin\Debug\net7.0\Exemplo10.runtimeconfig.json
+D:\Linguagens\C#\Exemplo10\bin\Debug\net7.0\Exemplo10.dll
+D:\Linguagens\C#\Exemplo10\bin\Debug\net7.0\Exemplo10.pdb
+D:\Linguagens\C#\Exemplo10\obj\Debug\net7.0\Exemplo10.dll
+D:\Linguagens\C#\Exemplo10\obj\Debug\net7.0\refint\Exemplo10.dll
+D:\Linguagens\C#\Exemplo10\obj\Debug\net7.0\Exemplo10.pdb
+D:\Linguagens\C#\Exemplo10\obj\Debug\net7.0\Exemplo10.genruntimeconfig.cache
+D:\Linguagens\C#\Exemplo10\obj\Debug\net7.0\ref\Exemplo10.dll

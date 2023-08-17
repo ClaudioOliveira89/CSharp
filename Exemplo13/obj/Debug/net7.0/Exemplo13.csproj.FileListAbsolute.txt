@@ -1,0 +1,15 @@
+D:\Linguagens\C#\Exemplo13\bin\Debug\net7.0\Exemplo13.exe
+D:\Linguagens\C#\Exemplo13\bin\Debug\net7.0\Exemplo13.deps.json
+D:\Linguagens\C#\Exemplo13\bin\Debug\net7.0\Exemplo13.runtimeconfig.json
+D:\Linguagens\C#\Exemplo13\bin\Debug\net7.0\Exemplo13.dll
+D:\Linguagens\C#\Exemplo13\bin\Debug\net7.0\Exemplo13.pdb
+D:\Linguagens\C#\Exemplo13\obj\Debug\net7.0\Exemplo13.csproj.AssemblyReference.cache
+D:\Linguagens\C#\Exemplo13\obj\Debug\net7.0\Exemplo13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagens\C#\Exemplo13\obj\Debug\net7.0\Exemplo13.AssemblyInfoInputs.cache
+D:\Linguagens\C#\Exemplo13\obj\Debug\net7.0\Exemplo13.AssemblyInfo.cs
+D:\Linguagens\C#\Exemplo13\obj\Debug\net7.0\Exemplo13.csproj.CoreCompileInputs.cache
+D:\Linguagens\C#\Exemplo13\obj\Debug\net7.0\Exemplo13.dll
+D:\Linguagens\C#\Exemplo13\obj\Debug\net7.0\refint\Exemplo13.dll
+D:\Linguagens\C#\Exemplo13\obj\Debug\net7.0\Exemplo13.pdb
+D:\Linguagens\C#\Exemplo13\obj\Debug\net7.0\Exemplo13.genruntimeconfig.cache
+D:\Linguagens\C#\Exemplo13\obj\Debug\net7.0\ref\Exemplo13.dll

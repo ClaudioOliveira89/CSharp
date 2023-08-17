@@ -1,0 +1,15 @@
+D:\Linguagens\C#\Exemplo15\bin\Debug\net7.0\Exemplo15.exe
+D:\Linguagens\C#\Exemplo15\bin\Debug\net7.0\Exemplo15.deps.json
+D:\Linguagens\C#\Exemplo15\bin\Debug\net7.0\Exemplo15.runtimeconfig.json
+D:\Linguagens\C#\Exemplo15\bin\Debug\net7.0\Exemplo15.dll
+D:\Linguagens\C#\Exemplo15\bin\Debug\net7.0\Exemplo15.pdb
+D:\Linguagens\C#\Exemplo15\obj\Debug\net7.0\Exemplo15.csproj.AssemblyReference.cache
+D:\Linguagens\C#\Exemplo15\obj\Debug\net7.0\Exemplo15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagens\C#\Exemplo15\obj\Debug\net7.0\Exemplo15.AssemblyInfoInputs.cache
+D:\Linguagens\C#\Exemplo15\obj\Debug\net7.0\Exemplo15.AssemblyInfo.cs
+D:\Linguagens\C#\Exemplo15\obj\Debug\net7.0\Exemplo15.csproj.CoreCompileInputs.cache
+D:\Linguagens\C#\Exemplo15\obj\Debug\net7.0\Exemplo15.dll
+D:\Linguagens\C#\Exemplo15\obj\Debug\net7.0\refint\Exemplo15.dll
+D:\Linguagens\C#\Exemplo15\obj\Debug\net7.0\Exemplo15.pdb
+D:\Linguagens\C#\Exemplo15\obj\Debug\net7.0\Exemplo15.genruntimeconfig.cache
+D:\Linguagens\C#\Exemplo15\obj\Debug\net7.0\ref\Exemplo15.dll

@@ -1,0 +1,15 @@
+D:\Linguagens\C#\Projeto final\obj\Debug\net7.0\Projeto final.csproj.AssemblyReference.cache
+D:\Linguagens\C#\Projeto final\obj\Debug\net7.0\Projeto final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagens\C#\Projeto final\obj\Debug\net7.0\Projeto final.AssemblyInfoInputs.cache
+D:\Linguagens\C#\Projeto final\obj\Debug\net7.0\Projeto final.AssemblyInfo.cs
+D:\Linguagens\C#\Projeto final\obj\Debug\net7.0\Projeto final.csproj.CoreCompileInputs.cache
+D:\Linguagens\C#\Projeto final\bin\Debug\net7.0\Projeto final.exe
+D:\Linguagens\C#\Projeto final\bin\Debug\net7.0\Projeto final.deps.json
+D:\Linguagens\C#\Projeto final\bin\Debug\net7.0\Projeto final.runtimeconfig.json
+D:\Linguagens\C#\Projeto final\bin\Debug\net7.0\Projeto final.dll
+D:\Linguagens\C#\Projeto final\bin\Debug\net7.0\Projeto final.pdb
+D:\Linguagens\C#\Projeto final\obj\Debug\net7.0\Projeto final.dll
+D:\Linguagens\C#\Projeto final\obj\Debug\net7.0\refint\Projeto final.dll
+D:\Linguagens\C#\Projeto final\obj\Debug\net7.0\Projeto final.pdb
+D:\Linguagens\C#\Projeto final\obj\Debug\net7.0\Projeto final.genruntimeconfig.cache
+D:\Linguagens\C#\Projeto final\obj\Debug\net7.0\ref\Projeto final.dll
