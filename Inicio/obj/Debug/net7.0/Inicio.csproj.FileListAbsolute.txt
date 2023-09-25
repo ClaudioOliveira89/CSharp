@@ -1,5 +1,0 @@
-D:\Linguagens\C#\Inicio\obj\Debug\net7.0\Inicio.csproj.AssemblyReference.cache
-D:\Linguagens\C#\Inicio\obj\Debug\net7.0\Inicio.GeneratedMSBuildEditorConfig.editorconfig
-D:\Linguagens\C#\Inicio\obj\Debug\net7.0\Inicio.AssemblyInfoInputs.cache
-D:\Linguagens\C#\Inicio\obj\Debug\net7.0\Inicio.AssemblyInfo.cs
-D:\Linguagens\C#\Inicio\obj\Debug\net7.0\Inicio.csproj.CoreCompileInputs.cache
