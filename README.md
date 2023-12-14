@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Carro
-=======
 ### Repository created for programming and development in the C# language.
 ![C#](https://img.shields.io/badge/Csharp-7d3cde?style=for-the-badge&logo=CSharp&logoColor=white) 
 
@@ -20,5 +17,3 @@ O objetovo é descubrir como aproveitar o ecossistema do C#, explorando desde os
 
 
 
-
->>>>>>> 5f78745e67468180a41ff975076f30ecea5e3ae0
