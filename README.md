@@ -1,15 +1,19 @@
 ### Repository created for programming and development in the C# language.
 ![C#](https://img.shields.io/badge/%23-black?style=for-the-badge&logo=c&logoColor=25fafe)&nbsp;
+![WinForms](https://img.shields.io/badge/winforms-black?style=for-the-badge&logo=winforms&logoColor=25fafe)&nbsp;
+![WPF](https://img.shields.io/badge/wpf-black?style=for-the-badge&logo=wpf&logoColor=25fafe)&nbsp;
+![ASP.NET](https://img.shields.io/badge/ASP.NET-black?style=for-the-badge&logo=asp.net&logoColor=25fafe)&nbsp;
+![Xamarin](https://img.shields.io/badge/Xamarin-black?style=for-the-badge&logo=xamarin&logoColor=25fafe)&nbsp;
 
-This repository was created for Csharp, a powerful language for developing various applications and systems.
-The goal is to discover how to leverage the Csharp ecosystem, exploring from fundamental concepts to creating desktop, web, mobile applications, and cloud-based services. It also involves the development of games and robust, efficient business solutions.
-
-Este repositório doi criado para o C#, uma linguagem poderosa para o desenvolvimento de aplicações e sistemas diversos. 
-O objetovo é descubrir como aproveitar o ecossistema do C#, explorando desde os conceitos fundamentais até a criação de aplicativos desktop, web, móveis e serviços baseados em nuvem. Além do desenvolvimento de jogos e soluções empresariais robustas e eficientes.
-
-
-
-
+This repository was created for academic purposes to document my learning journey with the Csharp programming language — a modern, object-oriented language widely used in the development of desktop, web, mobile, game, and enterprise solutions.
+The main goal is to gradually explore the Csharp ecosystem, starting from fundamental concepts to more advanced topics, such as .NET, WinForms, WPF, ASP.NET, Xamarin, and cloud-based services.
+This space will also serve as a base for experiments, notes, practical exercises, and small projects, aiming to consolidate knowledge that can be applied in both academic and professional contexts.
+<br>
+<br>
+<br/>
+Este repositório foi criado com fins acadêmicos para documentar meu processo de aprendizado da linguagem C#, uma linguagem moderna, orientada a objetos, amplamente utilizada no desenvolvimento de aplicações desktop, web, móveis, jogos e soluções corporativas.
+O objetivo principal é explorar gradualmente o ecossistema do C#, partindo dos conceitos fundamentais até tópicos mais avançados, como o uso do .NET, desenvolvimento com WinForms, WPF, ASP.NET, Xamarin e serviços em nuvem.
+Este espaço também servirá como base para experimentos, anotações, exercícios práticos e pequenos projetos, com foco em consolidar conhecimentos que podem ser aplicados tanto em contextos acadêmicos quanto profissionais.
 
 
 
